@@ -87,7 +87,7 @@ def autolike():
           try:    
             #-----------------------------[JANGAN DIEDIT - Hargai Saya]-----------------------------#
             cl.like(hasil['result']['posts'][zx]['userInfo']['mid'],hasil['result']['posts'][zx]['postInfo']['postId'],likeType=1002)
-            cl.comment(hasil['result']['posts'][zx]['userInfo']['mid'],hasil['result']['posts'][zx]['postInfo']['postId'],"–͒–͒–͒ 🖕🙈🖕––͒–͒–͒–͒ \nᴬ̙ᵘ̙ᵗ̙ᵒ̙ˡ̙ⁱ̙ᵏ̙ᵉ̙ ᵇ̙ʸ̙Nciw\n –ͨ–ͤkₖ- ··· –ͥ–ͩ ···  ʟ–ͥ–͆–ͤline://ti/p/~calonjodohku")
+            cl.comment(hasil['result']['posts'][zx]['userInfo']['mid'],hasil['result']['posts'][zx]['postInfo']['postId'],"–͒–͒–͒ 🖕🙈🖕––͒–͒–͒–͒ \nᴬ̙ᵘ̙ᵗ̙ᵒ̙ˡ̙ⁱ̙ᵏ̙ᵉ̙ ᵇ̙ʸ̙Nciw\n –ͨ–ͤkₖ- ··· –ͥ–ͩ ···  ʟ–ͥ–͆–ͤline://ti/p/~nciw08")
             #-----------------------------[JANGAN DIEDIT - Hargai Saya]-----------------------------#
             cl.comment(hasil['result']['posts'][zx]['userInfo']['mid'],hasil['result']['posts'][zx]['postInfo']['postId'],"Support̙ ᵇ̙ʸ̙ 🚩آB̶uͤrͭhͦa̶̶ͩn̶̅🕷┯")
             print "Like"
